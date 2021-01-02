@@ -6,3 +6,6 @@ git add .
 
 git status
 # exibe o status dos arquivos que estão sendo monitorados
+
+git remote origin 
+# adiciona o caminho para realizar a alocação de arquivos no GitHub
