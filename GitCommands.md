@@ -9,3 +9,9 @@ git status
 
 git remote origin 
 # adiciona o caminho para realizar a alocação de arquivos no GitHub
+
+git pull origin master
+# "puxa" conteúdo que está no git para ambiente local
+
+git remote -v
+# exibe o repositório origem
